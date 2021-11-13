@@ -24,7 +24,7 @@ https://t.me/AVACINEMAS_2021
 https://t.me/orukadhasollatumasir
 Subscribe to the update channel to learn about my updates and activity...
 Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
-🧒 Maintained By <a href="https://t.me/Mrk_yt">This Person</a>     
+🧒 Maintained By <a href="https://t.me/Thlalapathy66fanada">This Person</a>     
    
 ----
 
