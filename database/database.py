@@ -943,9 +943,8 @@ class Database:
             return True
         except Exception as e:
             print(e) 
-            return False
-
-    Donlee_bt = InlineKeyboardMarkup( [[ InlineKeyboardButton("DEPLOY", url="t.me/Mo_Tech_YT")]])
+            return Fals
+    Donlee_bt = InlineKeyboardMarkup( [[ InlineKeyboardButton("Update Channel", url="t.me/AVACINEMAS_2021")]])
     async def delall_filters(self, group_id: int):
         """
         A Funtion To delete all filters of a group
