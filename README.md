@@ -16,8 +16,12 @@
 </p>
 
 👋Hey <a href="https://telegram.dog/Mrk_YT">Muhammed</a>, Iam <a href="https://telegram.me/Donlee_Robot">DonLee RoBoT</a>
-Make me an admin for your group and channel then connect me....🎉
-🙂To build a DonLee robot V2 like me, click on the <a href="https://telegram.dog/Donlee_Robot">/subscribe</a> command
+Hey🤚 
+ഈ ബോട്ട് oru kadha solluduma ഗ്രൂപ്പിലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
+അപ്പോ പിന്നെ എന്തിനാ വീണ്ടും വീണ്ടും സ്റ്റാർട്ട് കുത്തി കളിക്കാൻ വരുന്നേ... ആ സൈഡിലോട്ട് എങ്ങാനും മാറി ഇരിക്ക്‌ ഇനി🤭🤭
+https://t.me/AVACINEMAS_2021
+
+https://t.me/orukadhasollatumasir
 Subscribe to the update channel to learn about my updates and activity...
 Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
 🧒 Maintained By <a href="https://t.me/Mrk_yt">This Person</a>     
@@ -37,8 +41,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐕𝐈𝐃𝐄𝐎 ↩️
 </p>
 
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://img.shields.io/youtube/views/NrbMc93aCzA?style=social"></a>
+<a href="><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href=""><img src="https://img.shields.io/youtube/views/NrbMc93aCzA?style=social"></a>
 
 ----
 
