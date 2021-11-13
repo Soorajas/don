@@ -142,7 +142,7 @@ async def about(bot, message):
                              ),
                          InlineKeyboardButton
                              (
-                                 "Dev 🤠", callback_data="devmuhammed"
+                                 "Dev 🤠", callback_data="https://t.me/orukadhasollatumasir"
                              )
                     ],
                     [
@@ -171,24 +171,24 @@ async def sub(bot, message):
                     [
                          InlineKeyboardButton
                              (                                 
-                                 "📣Group", url="t.me/mo_tech_group"
+                                 "📣Group", url="t.me/orukadhasollatumasir"
                              ),
                          InlineKeyboardButton
                              (
-                                 "📢Channel", url="t.me/mo_tech_yt"
+                                 "📢Channel", url="t.me/AVACINEMAS_2021"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "😟 Build a New Bot 😟", url="https://youtu.be/NrbMc93aCzA"
+                                
                              )
                     ],
                     [
-                         InlineKeyboardButton
-                             (
-                                 "💥Subscribe youtube Channel💥", url="https://www.youtube.com/c/MoTech_YT"
-                             )
+                        
+                             
+                            
+                             
                     ],
                     [
                          InlineKeyboardButton
