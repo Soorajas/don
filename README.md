@@ -44,8 +44,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 <a href="><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
 <a href=""><img src="https://img.shields.io/youtube/views/NrbMc93aCzA?style=social"></a>
 
-----
-
+---
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soorajas/don)
 
 <p align="center">
 ↪️ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 ↩️
